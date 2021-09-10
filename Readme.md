@@ -1,6 +1,6 @@
 ## Summer - 适用于Xcode项目的翻译资源维护工具
 
-![Summer](./Image/icon_256.png)
+![Summer](https://mmbiz.qpic.cn/mmbiz_png/M54fjP2zXtHp5ZJ6sibJy4XB8cKWUptazfY0yWFaxM116iaGm2crA6RlVpcrjHHz6QDg5FmkexoVoZxVFoqxOYkg/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 ### 翻译问题维护现状:
 
@@ -26,13 +26,13 @@
 
 ### 使用说明:
 
-![Step_One](./Image/Summer_Step_One.png)
+![Step_One](https://mmbiz.qpic.cn/mmbiz_png/M54fjP2zXtHp5ZJ6sibJy4XB8cKWUptazQC6EHtNBf1OzlrniaWqL3CK6jjw0QxYNRxn3wD4mjCyWdqZFUpdrMsA/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 ##### Step One:
 
 使用Summer抽取组件中的多个翻译文件到一个csv文件 > Git维护这个csv文件的版本 > 产品/翻译同学在Excel导入翻译csv文件，对翻译进行更新。
 
-![Step_Two](./Image/Summer_ToStrings.png)
+![Step_Two](https://mmbiz.qpic.cn/mmbiz_png/M54fjP2zXtHp5ZJ6sibJy4XB8cKWUptazY6bqCdsn3mb6fYibq3m0aYGKMnPqSM5fCYVmkScluCgibWqcDbR5Lt9Q/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 ##### Step Two:
 
